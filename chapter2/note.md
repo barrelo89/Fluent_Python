@@ -1,4 +1,4 @@
-- Python Sequence Type:
-- 1. container sequences: list, tuple, collecitons.deque
-- 2. flat sequences: str, bytes, bytearray, memoryview, array.array
-- 
+# Python Sequence Type:
+1. container sequences: list, tuple, collecitons.deque
+2. flat sequences: str, bytes, bytearray, memoryview, array.array
+
